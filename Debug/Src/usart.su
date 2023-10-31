@@ -1,0 +1,7 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static
+usart.c:36:6:MX_USART1_UART_Init	8	static
+usart.c:54:6:HAL_UART_MspInit	48	static
+usart.c:87:6:HAL_UART_MspDeInit	16	static
+usart.c:113:6:HAL_UART_RxCpltCallback	24	static
+usart.c:123:6:on_UART_IDLE	24	static
+usart.c:146:6:updateRTCTime	256	static

@@ -1,0 +1,4 @@
+freertos.c:94:6:MX_FREERTOS_Init	168	static
+freertos.c:173:6:Task_Draw	32	static
+freertos.c:217:6:Task_Store	48	dynamic
+freertos.c:258:6:Task_Plot	32	static
